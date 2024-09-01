@@ -1,0 +1,44 @@
+html{
+    font-family: "Gloria Hallelujah", cursive;
+}
+
+
+header .tlogo{
+    width: 150px;
+    padding: 0;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color:black;
+}
+header nav ul li {
+    margin-left: 10px;
+}
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.foot{
+    text-align: right;
+}
+
+.pic{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caption{
+    text-align: center;
+}
